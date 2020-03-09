@@ -9,6 +9,7 @@ namespace Rider
             
             Console.WriteLine("Hello World");
             //Dobra czas sobie isc 
+            //Pamietaj zmieniaj nazwe commita 
 
         }
     }
