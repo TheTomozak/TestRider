@@ -8,6 +8,7 @@ namespace Rider
         {
             
             Console.WriteLine("Hello World");
+            Console.WriteLine("Tomek");
             
             
         }
